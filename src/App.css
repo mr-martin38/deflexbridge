@@ -36,3 +36,124 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* .home-logo{
+  opacity: 100%;
+  width: 1440px;
+  height: auto;
+  position: relative;
+  filter: brightness(85%) contrast(180%);
+} */
+
+/* .overlay{
+  position: absolute;
+  top: 0;
+  font-size: 25px;
+  color: black;
+  left: 60px;
+  border: 1px solid black;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  font-family: montserrat;
+}
+ */
+
+ .container{
+  width: 100%;
+  height: auto;
+  position: relative;
+ }
+
+ .container img{
+  width: 100%;
+  opacity: 100%;
+  filter: brightness(85%) contrast(180%);
+  height: 892px;
+ }
+
+ .container .text{
+  position: absolute;
+  color: white;
+  /* border: 1px solid black; */
+  top: 250px;
+  font-size: 52px;
+  left: 105px;
+  font-weight: 500;
+  font-family: "Montserrat", sans-serif;
+  width: 724px;
+  height: 241px;
+  padding: 10px;
+  text-align: left;
+  opacity: 100%;
+  line-height: 60px;
+ }
+
+ .container .textt{
+  /* border: 1px solid black; */
+  width: 615px;
+  height: 238px;
+  top: 515px;
+  position: absolute;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  /* font-weight: 28.8; */
+  text-align: left;
+  left: 105px;
+  right: 720px;
+  color: #FFFFFF;
+  line-height: 30px;
+  opacity: 100%;
+ }
+
+ .navbar{
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  width: 796px;
+  left: 597px;
+  color: black;
+  /* opacity: 100%; */
+ }
+
+
+ /* .links{
+  border: 1px solid black;
+  position: absolute;
+  width: 796px;
+  height: 50px;
+  text-decoration: none;
+  justify-content: space-between;
+  display: flex;
+  right: 47px;
+  left: 597px;
+  top: 21px;
+ } */
+
+ .container .logo{
+  position: relative;
+  width: 40px;
+  height: 40px;
+  left: 38px;
+  bottom: 1035px;
+ }
+
+ .name{
+  color: white;
+  position: relative;
+  bottom: 490px;
+  left: 40px;
+  font-family: "Montserrat", sans-serif;
+  opacity: 100%;
+ }
+
+ .navbar .country{
+  bottom: 5px;
+  position: relative;
+  left: 10px;
+ }
+
+ .support{
+  bottom: 50px;
+ }
