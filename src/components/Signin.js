@@ -3,7 +3,8 @@ import Navbar from "./Navbar";
 const Signin = () => {
   return (
     <div className="signin">
-      <h2>name</h2>
+      <img src="/assets/landing.png" alt="" />
+      <div className="formcontainer"></div>
     </div>
   );
 };
