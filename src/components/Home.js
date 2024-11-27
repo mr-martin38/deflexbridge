@@ -5,7 +5,7 @@ const Home = () => {
     <div className="container">
       <img src="/assets/landing.png" alt="" />
       <div className="text">
-        Easy, fast, and seamless <br /> cross-chain token swaps,
+        Easy, fast and seamless <br /> cross-chain token swaps,
         <br /> no manual conversions <br /> needed.
       </div>
       <div className="textt">
